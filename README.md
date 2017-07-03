@@ -1,4 +1,4 @@
 # Mac-dictionary
 Dictionaries for Mac / os x
 
-Place the *.dictionary into ~/Library/Dictionary
+Place the *.dictionary into ~/Library/Dictionaries
